@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": “Photograph”,
+      "id": "1",
+      "name": “Village in Sinjar (2024)”,
+      "description": "A photograph of an unnamed village in Sinjar, Iraq”,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Photograph",
+      "id": "2",
+      "name": “Portrait of Amad Kalhor (2017)”,
+      "description": "A studio photographic portrait of Amad Kalhor, the Mukhtar of Wardiya, Iraq.”,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Photograph",
+      "id": "3",
+      "name": “Family Photograph from Kaul Collection (1991)”,
+      "description": "A photograph depicting the Kaul family in Srinagar, Kashmir, India.”, 
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": “Mutaz Bana”,
+      "description": “A PhD student from Duhok University, Kurdistan Region of Iraq.“,
+      "itemId": "1",
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": “Nathaniel Brunt,
+      "description": “A postdoctoral fellow at the University of Victoria..”,
+      "itemId": "3",
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": “Human Rights Archive ",
+    "creator": "NathanielBrunt”,
+    "about": "A collection of human rights photographs.”,
+    "url": "https://example.org/HRA“,
+  }
+}
